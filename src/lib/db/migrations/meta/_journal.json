@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708116474864,
+      "tag": "0000_rapid_proudstar",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708123895662,
+      "tag": "0001_steep_mentallo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708135580486,
+      "tag": "0002_dark_polaris",
+      "breakpoints": true
+    }
+  ]
+}
